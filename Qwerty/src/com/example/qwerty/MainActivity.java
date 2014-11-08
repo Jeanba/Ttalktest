@@ -1,4 +1,4 @@
-package com.example.ttalktestjb;
+package com.example.qwerty;
 
 import com.example.qwerty.R;
 
