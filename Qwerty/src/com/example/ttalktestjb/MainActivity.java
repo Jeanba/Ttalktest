@@ -1,4 +1,6 @@
-package com.example.qwerty;
+package com.example.ttalktestjb;
+
+import com.example.qwerty.R;
 
 import android.app.Activity;
 import android.os.Bundle;
